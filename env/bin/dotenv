@@ -1,4 +1,4 @@
-#!/Users/perdanamain/Documents/it-practioners/fullstack-developer-tam/repositories/risk-matrix-scheduler/env/bin/python
+#!/home/aimo/digital-twin/risk-matrix-scheduler/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
